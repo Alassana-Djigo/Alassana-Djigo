@@ -30,5 +30,4 @@
   <a href="https://www.linkedin.com/in/alassana-djigo-05820121b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://open.spotify.com/playlist/32OJQ8PgP5CO1mZRwX6WS5?si=ad396201e4894b6f" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
  
-     ![Snake animation](https://github.com/Alassana-Djigo/Alassana-Djigo/blob/output/github-contribution-grid-snake.svg)
 </div>
