@@ -1,4 +1,4 @@
-### Ola Eu sou Alassana Djigo 👋 
+### Hello, I am Alassana Djigo 👋 
 
 - 🔭 work with Back-end Development and Data Science.
 - 👯 I enjoy working both independently and as part of a team.
