@@ -1,10 +1,10 @@
 ### Ola Eu sou Alassana Djigo 👋 
 
-- 🔭 Trabalho com front end e Ciencia de dados
-- 👯 Trabalho sozinho e em grupo ...
-- 🤔 Estudando machine learning ...
-- 📫 Contact-me pelo meu email:alassana7djigo@gmail.com ...
-- 😂 Pronomes:Ele/dele
+- 🔭 work with Back-end Development and Data Science.
+- 👯 I enjoy working both independently and as part of a team.
+- 🤔 I'm currently expanding my knowledge of Networking and Cybersecurity.
+- 📫 Contact me: alassana7djigo@gmail.com
+- 😂 Pronouns: He/Him.
 
 <div align="center">
   <a href="https://github.com/Alassana-Djigo">
